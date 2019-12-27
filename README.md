@@ -9,11 +9,12 @@ for the user so they know they are starting at a good place and understand what 
 
 ## Table of Contents
 ---
-* [Chapter 1]()
+* [Chapter 1](https://github.com/Markay12/learningPython#chapter-1)
 
 
 ## *Chapter 1*
 ---
+
 * Clearly discusses the main programming language of Python including:
 
 1. Why is python useful?
