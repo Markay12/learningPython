@@ -14,15 +14,18 @@ Most of the text written here will be in .md (Markdown language)
 # Why use Python?
 
 It is easy to use
+--
 - High Level languages are closer to the human English and allow the programmer to understand what they are doing better
 - Python is even closer to English and allows the user to write basic and simple instructions
 - Python programs are shorter and take less to write
 
 Powerful
+--
 - Able to process files, create GUI's and use a variety of data structures
 
 
 Object Oriented (OOP)
+--
 - modern approach to solving programs
 - an intuitive method of representing information and actions
 
