@@ -13,7 +13,7 @@ Most of the text written here will be in .md (Markdown language)
 
 # Why use Python?
 
-It is easy to use
+Easy to use
 --
 - High Level languages are closer to the human English and allow the programmer to understand what they are doing better
 - Python is even closer to English and allows the user to write basic and simple instructions
