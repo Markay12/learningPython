@@ -40,3 +40,13 @@ able to create amazing looks that can show off what we want into the console and
 * Look at the file `game_over_v2.py` to see more
 
 
+## __Operators__
+---
+
++ , addition, 7 + 3 = 10
+- , subtraction, 7 - 3 = 4
+\* , multiplication, 7 \* 3 = 21
+\/ , divison, 7/3 = 2.3333333 (However, when we use two signs the division answer will be rounded to the n)
+% , modulus, 7 % 3 = 1
+
+
