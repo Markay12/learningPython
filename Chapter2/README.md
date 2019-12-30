@@ -19,7 +19,9 @@ You can print multiple values with a single call to the `print()` function. Sepa
 
 ```python
 
-print("Same", "message", "as before")```
+print("Same", "message", "as before")
+
+```
 
 However you can write it like this
 
