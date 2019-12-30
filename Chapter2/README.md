@@ -27,7 +27,9 @@ However you can write it like this
 
 print("Same",
 	  "message",
-	  "as before")```
+	  "as before")
+	  
+```
 	  
 Which would print out the same thing
 
