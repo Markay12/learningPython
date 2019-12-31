@@ -20,3 +20,18 @@ for the user so they know they are starting at a good place and understand what 
 1. Why is python useful?
 2. Why is it powerful?
 3. How do I start my first program! 
+
+## *Chapter 2*
+---
+
+* Discusses the language of python by learning: 
+
+1. Use triple quoted strings and escape sequences
+2. Use math in Programs
+3. Store data in memory
+4. Use Variables to access and manipulate data
+5. Get user input for creative programs
+
+
+## *Chapter 3*
+---
